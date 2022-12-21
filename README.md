@@ -1,12 +1,13 @@
 <img src="https://i.ibb.co/MhNQvVR/299211915-5142625642530903-6278599487797217653-n.jpg" align="right" width="200" height="200"/>
 
 # Local Government Unit of General Santos City (LGU-GSC)
+
 ## MEAN Framework 
 <p align="center" width="100%">
 <img src= "https://www.wildnettechnologies.com/wp-content/uploads/2018/04/mean-stack-2.png" width="auto" height="100">
 </p>
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **MONGODB** &ensp; **EXPRESS JS** &ensp; **ANGULAR JS** &ensp; **NODE JS**
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; **MONGODB** &ensp; **EXPRESS JS** &ensp; **ANGULAR JS** &ensp; **NODE JS**
 
 
 ## Attendance Monitoring System
